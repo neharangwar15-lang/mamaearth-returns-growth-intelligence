@@ -1,0 +1,8 @@
+Situation
+After removing duplicate orders, cleaned revenue is ₹97,358.30, compared with raw revenue of ₹99,860.20. The cleaned dataset retains the legitimate 175 orders.
+
+Complication
+COD has a 44.4% return rate, compared with 14.7% for CARD and 18.9% for UPI. The highest-risk segment is COD in Tier-2 cities, with a 54.5% return rate. Removing duplicate rows explains the ₹2,501.90 revenue difference. January appears to lead at ₹29,582.10 before outlier correction, but its corrected revenue is ₹11,637.10.
+
+Resolution
+Prioritize investigation of COD workflows in Tier-2 cities and monitor return reasons by payment method. Use outlier-corrected revenue for trend decisions: 2026-03 (March) is the true peak at ₹20,318.90. These figures come from the supplied analysis findings; validate operational actions against business context.
